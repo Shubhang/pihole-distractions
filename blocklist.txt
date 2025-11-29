@@ -1,19 +1,5 @@
 # Personal blocklist of distractions while working
 # https://github.com/pugson/pihole-distractions
 
-twitter.com
-m.twitter.com
-t.co
-reddit.com
-gateway.reddit.com
-gql.reddit.com
-www.reddit.com
-redditmedia.com
-redditstatic.com
-discord.com
+x.com
 youtube.com
-www.youtube.com
-api.farcaster.xyz
-farcaster.xyz
-explorer.farcaster.xyz
-discove.xyz
